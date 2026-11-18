@@ -1,4 +1,6 @@
-# 棋盘标定板参数化模板
+# CheckerCalib
+
+> 棋盘标定板参数化模板 · Parametric Dual-Color Checkerboard Calibration Board Generator
 
 ![版本](https://img.shields.io/badge/version-1.3-blue) ![平台](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey) ![依赖](https://img.shields.io/badge/依赖-零安装%20·%20离线可用-success)
 
