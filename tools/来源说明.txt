@@ -1,0 +1,11 @@
+本文件夹包含未经修改的官方 OpenSCAD 2021.01 x86-64 便携版程序。
+COPYING 与 UPSTREAM_README.md 从同版本的官方源代码库补充取得。
+
+官方下载页：https://openscad.org/downloads.html
+便携包：https://files.openscad.org/OpenSCAD-2021.01-x86-64.zip
+官方校验：https://files.openscad.org/OpenSCAD-2021.01-x86-64.zip.sha256
+源代码（同版本）：https://github.com/openscad/openscad/tree/openscad-2021.01
+源代码归档：https://files.openscad.org/openscad-2021.01.src.tar.gz
+许可：见 openscad-2021.01/COPYING 以及各字体、库目录中的原始许可。
+
+OpenSCAD 由其原作者与贡献者开发；本项目仅通过命令行调用它生成 STL。

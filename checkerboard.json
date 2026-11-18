@@ -1,0 +1,69 @@
+{
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "01_Default_10x7_20mm": {
+      "count_mode": "squares",
+      "columns": "10",
+      "rows": "7",
+      "size_mode": "square",
+      "square_size": "20",
+      "border": "20",
+      "outer_width": "240",
+      "outer_height": "180",
+      "base_thickness": "2",
+      "pattern_thickness": "0.6",
+      "inlay_taper": "0.05",
+      "export_part": "preview",
+      "black_at_origin": "true",
+      "corner_relief": "0.02"
+    },
+    "02_Compact_10x7_15mm": {
+      "count_mode": "squares",
+      "columns": "10",
+      "rows": "7",
+      "size_mode": "square",
+      "square_size": "15",
+      "border": "15",
+      "outer_width": "180",
+      "outer_height": "135",
+      "base_thickness": "2",
+      "pattern_thickness": "0.6",
+      "inlay_taper": "0.05",
+      "export_part": "preview",
+      "black_at_origin": "true",
+      "corner_relief": "0.02"
+    },
+    "03_Large_10x7_30mm": {
+      "count_mode": "squares",
+      "columns": "10",
+      "rows": "7",
+      "size_mode": "square",
+      "square_size": "30",
+      "border": "30",
+      "outer_width": "360",
+      "outer_height": "270",
+      "base_thickness": "3",
+      "pattern_thickness": "0.6",
+      "inlay_taper": "0.05",
+      "export_part": "preview",
+      "black_at_origin": "true",
+      "corner_relief": "0.02"
+    },
+    "04_Outer_220x180mm": {
+      "count_mode": "squares",
+      "columns": "10",
+      "rows": "7",
+      "size_mode": "outer",
+      "square_size": "20",
+      "border": "15",
+      "outer_width": "220",
+      "outer_height": "180",
+      "base_thickness": "2",
+      "pattern_thickness": "0.6",
+      "inlay_taper": "0.05",
+      "export_part": "preview",
+      "black_at_origin": "true",
+      "corner_relief": "0.02"
+    }
+  }
+}
